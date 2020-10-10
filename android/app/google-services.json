@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323816642361",
+    "firebase_url": "https://flutterproj1-d257a.firebaseio.com",
+    "project_id": "flutterproj1-d257a",
+    "storage_bucket": "flutterproj1-d257a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323816642361:android:e0d46fe4107666bd5f3ae8",
+        "android_client_info": {
+          "package_name": "com.rahul.linuxcommands_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323816642361-vu427qpt7b8ve4it0ni6b32o6k5t4i2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYlJ-cbQG_rGDDDxiJeACOmxJXn2JiVPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323816642361-vu427qpt7b8ve4it0ni6b32o6k5t4i2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
